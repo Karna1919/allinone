@@ -4,9 +4,9 @@ exports.LoginPageObject = class LoginPageObject {
     constructor(page) { 
 
         this.page = page;
-        this.username = page.locator("//input[@name='user_name']");
-        this.password = page.locator("//input[@name='user_password']");
-        this.loginButton = page.locator("//input[@id='submitButton']");
+        this.username = page.locator("//input[@id='username']");
+        this.password = page.locator("//input[@id='password']");
+        this.loginButton = page.locator("//button[@id='login']");
     }
     async adminLogin(username,password){
 
