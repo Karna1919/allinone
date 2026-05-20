@@ -2,38 +2,8 @@
   "cookies": [
     {
       "name": "PHPSESSID",
-      "value": "2e828e6900b89eed79ea83843bac86be",
-      "domain": "localhost",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "ck_login_id_vtiger",
-      "value": "1",
-      "domain": "localhost",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "ck_login_theme_vtiger",
-      "value": "softed",
-      "domain": "localhost",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "ck_login_language_vtiger",
-      "value": "en_us",
-      "domain": "localhost",
+      "value": "e8fruddsai13mgblk4nb154i23",
+      "domain": "49.249.29.4",
       "path": "/",
       "expires": -1,
       "httpOnly": false,
