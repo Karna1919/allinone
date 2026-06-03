@@ -12,9 +12,7 @@ async function globalSetup() {
 
     await loginpageobject.adminLogin(user.username, user.password);
 await page.waitForURL("http://49.249.29.4:8081/TestServer/Build/Advance_Library_System/home.php");
-    await page.context().storageState({
-        path: "state.json"
-    });
+    await page.context().storageState({path: "state.json"});
 
    await browser.close();  
 }
