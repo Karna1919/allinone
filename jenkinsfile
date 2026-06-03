@@ -37,7 +37,7 @@ pipeline {
 
             steps {
 
-                bat 'npx playwright test'
+                bat 'npx playwright ${Scripts}'
             }
         }
     }
