@@ -10,6 +10,8 @@ test("login test @Smoke",async ({page})=>{
 test("login @Web ",async ({page})=>{
 
     console.log("Okkk");
+    console.log("Helloo");
+    
     
 })
 
